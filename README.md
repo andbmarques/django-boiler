@@ -25,7 +25,6 @@ No manual config. No copy-pasting boilerplate. No Node.js.
 ## Quick Install
 
 ```bash
-# Run directly — no download, no chmod needed
 bash <(curl -fsSL https://raw.githubusercontent.com/andbmarques/django-boiler/refs/heads/master/script.sh)
 ```
 
