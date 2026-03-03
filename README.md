@@ -1,14 +1,6 @@
 <div align="center">
 
-```
-██████╗      ██╗ █████╗ ███╗   ██╗ ██████╗  ██████╗
-██╔══██╗     ██║██╔══██╗████╗  ██║██╔════╝ ██╔═══██╗
-██║  ██║     ██║███████║██╔██╗ ██║██║  ███╗██║   ██║
-██║  ██║██   ██║██╔══██║██║╚██╗██║██║   ██║██║   ██║
-██████╔╝╚█████╔╝██║  ██║██║ ╚████║╚██████╔╝╚██████╔╝
-╚═════╝  ╚════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝  ╚═════╝
-              B  O  I  L  E  R
-```
+# DJANGO-BOILER
 
 **One command. A production-ready Django stack.**
 
@@ -27,10 +19,6 @@
 **django-boiler** is an interactive CLI scaffolder that sets up a complete Django project in under a minute — with Tailwind CSS v4, HTMX, and all the tooling you actually need, already wired together.
 
 No manual config. No copy-pasting boilerplate. No Node.js.
-
-```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/andbmarques/django-boiler/refs/heads/master/script.sh)
-```
 
 ---
 
@@ -218,7 +206,6 @@ def my_view(request):
 | Python 3.10+ | ✅ | |
 | uv | Recommended | Falls back to pip automatically |
 | git | Optional | Only if "Git init" is selected |
-| Node.js | ❌ | Not needed |
 
 ---
 
